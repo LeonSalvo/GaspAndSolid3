@@ -29,3 +29,5 @@ namespace Full_GRASP_And_SOLID.Library
         }
     }
 }
+
+//Esta clase esta mal ya que no respeta el principio de polimorfismo ya que usa condicionales innecesarios 
